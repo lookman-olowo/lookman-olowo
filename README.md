@@ -6,4 +6,5 @@
 ![](http://profile-stats-eosin.vercel.app/api/cards/productive-time?username=Lookman-olowo&theme=nord_dark&utcOffset=-6)
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=lookman-olowo&abbreviated=true&color=ffffff" width="1" alt="Profile views counter" />
+
+![](https://komarev.com/ghpvc/?username=lookman-olowo&abbreviated=true&style=pixel)
